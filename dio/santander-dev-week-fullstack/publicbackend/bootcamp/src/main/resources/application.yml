@@ -17,4 +17,4 @@ spring:
       ddl-auto: none
 
 application:
-  description: Projeto criado para o bootcamp DIO - Santander Fullstack - Back-end
+  description: Projeto criado para o bootcamp DIO - Santander Fullstack - Backend
